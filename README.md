@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonar-cmd&layout=compact)]()
 
+<a href="https://github.com/starbinna/starbinna"><img alt="starbinna's activity graph" src="https://activity-graph.herokuapp.com/graph?username=starbinna&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+
 ## Tecnologias que aprendo no meu dia
 
 <div class='display: inline-block'>

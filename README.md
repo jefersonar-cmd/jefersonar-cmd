@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonar-cmd&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonar-cmd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernamejefersonar-cmd&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/starbinna/starbinna"><img alt="starbinna's activity graph" src="https://activity-graph.herokuapp.com/graph?username=jefersonar-cmd&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 

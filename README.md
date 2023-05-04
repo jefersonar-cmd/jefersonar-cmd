@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonar-cmd&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/starbinna/starbinna"><img alt="starbinna's activity graph" src="https://activity-graph.herokuapp.com/graph?username=jefersonar-cmd&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/atosinu/atosinu"><img alt="atosinu's activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jefersonar-cmd&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 ## Tecnologias que aprendo no meu dia
 

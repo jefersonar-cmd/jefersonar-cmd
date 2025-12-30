@@ -4,9 +4,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jeffmetalurgico)
 <!-- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCftuEJQ2UqkGTFy7PqgN7yA) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonar-cmd&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonar-cmd&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que aprendo no meu dia
 

@@ -15,6 +15,7 @@ Tenho experiência com desenvolvimento de plataformas de CRM/SFA, dashboards, re
 - 🧩 Trabalho com CRM, Sales Force Automation, dashboards e automações.
 - 🔗 Tenho interesse especial em integrações com ERP, especialmente Protheus.
 - 🗄️ Experiência com modelagem, administração e sincronização de bancos de dados.
+- 🤖 Utilizo Agentes de IA para acelerar desenvolvimento, revisar código, criar documentação e automatizar tarefas repetitivas.
 - 📱 Desenvolvo aplicações para web, desktop e mobile.
 - 🎯 Gosto de transformar processos manuais em ferramentas simples, rápidas e úteis.
 
@@ -48,6 +49,29 @@ Tenho experiência com desenvolvimento de plataformas de CRM/SFA, dashboards, re
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### IA e automação
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge&logo=robotframework&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=huggingface&logoColor=yellow)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Automation](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-FF6F00?style=for-the-badge&logo=zapier&logoColor=white)
+
+---
+
+## 🤖 Uso de Agentes de IA
+
+Utilizo Agentes de IA como parte do meu fluxo de desenvolvimento para:
+
+- Acelerar a criação de funcionalidades e protótipos.
+- Revisar código, identificar bugs e sugerir melhorias.
+- Gerar e revisar documentação técnica.
+- Criar tarefas, planos de implementação e checklists.
+- Automatizar análises de código e processos repetitivos.
+- Apoiar decisões de arquitetura e modelagem de dados.
+- Integrar IA em sistemas internos, relatórios e automações.
+
+Meu foco é usar IA como uma ferramenta de produtividade, mantendo controle técnico, qualidade de código e decisões arquiteturais bem definidas.
+
 ---
 
 ## 💡 Áreas de interesse
@@ -57,6 +81,7 @@ Tenho experiência com desenvolvimento de plataformas de CRM/SFA, dashboards, re
 - Sincronização e replicação de dados
 - Dashboards e relatórios gerenciais
 - Automação de processos internos
+- Agentes de IA e desenvolvimento assistido por IA
 - APIs, microsserviços e arquitetura de sistemas
 - Aplicações Local-First e mobile
 - Otimização de consultas e performance em banco de dados
